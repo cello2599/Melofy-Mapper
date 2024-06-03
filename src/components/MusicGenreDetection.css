@@ -1,0 +1,55 @@
+.detection-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: left;
+    padding: 20px;
+    width: 100%;
+    max-width: 1200px;
+  }
+  
+  .text-section {
+    flex: 1;
+  }
+  
+  .upload-section {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 20px 0;
+  }
+  
+  .file-upload {
+    flex: 1;
+  }
+  
+  .continue-button {
+    background-color: #92B3A5;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .genre-result {
+    margin-top: 20px;
+  }
+  
+  .genre-output {
+    border: 1px solid #92B3A5;
+    padding: 20px;
+    height: 150px;
+  }
+  
+  .illustration-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .illustration-section img {
+    max-width: 100%;
+    height: auto;
+    max-height: 600px;
+  }
+  
