@@ -10,7 +10,7 @@ function App() {
           <h1>Melody Mapper</h1>
           <nav>
             <ul>
-              <li>Music Genre Detection</li>
+              <li>Music Genre Detection</li> 
               <li>Teams</li>
             </ul>
           </nav>
